@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saurabh Singh Rautela</h1>
-<h3 align="center">A passionate and dedicated Backend Developer with a knack for creating innovative solutions. I began my journey in Web Development and Machine Learning with a strong interest in Backend Development</h3>
+<h3 align="center">A passionate and dedicated MERN Stack Developer with a knack for creating innovative solutions. I began my journey in Web Development and Machine Learning with a strong interest in Backend Development</h3>
 <img align="right"alt="Coding"width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Android Development**
 
 - 👨‍💻 All of my projects are available at [https://saurabh11122001.github.io/portfolio/](https://saurabh11122001.github.io/portfolio/)
 
